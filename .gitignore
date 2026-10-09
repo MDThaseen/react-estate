@@ -38,3 +38,7 @@ Thumbs.db
 # Deployment
 .vercel/
 .netlify/
+
+# Personal notes
+note.txt
+timelaps.txt
