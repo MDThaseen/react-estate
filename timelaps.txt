@@ -1,0 +1,17 @@
+37:17
+backend login
+
+
+{
+    "username": "john",
+    "email": "john@gmail.com",
+    "password": "john123"
+}
+
+ai project deployed anythong with llm ? 
+RAG pipelines
+
+
+git remote add personal git@github-personal:MDThaseen/react-estate
+
+git remote add personal git@github-personal:MDThaseen/react-estate
